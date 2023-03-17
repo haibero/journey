@@ -4,10 +4,11 @@ Journey is a project that seeks to re-imagine how we share our musical experienc
 are two primary use-cases that Journey might fill:
 
 1. The concept of a "Journey", which is trivially a graph of linked "Crossroads", each of which might be an album, 
-playlist, song, or possibly other media.  This concept focuses on the possible perceived relationships between art, and 
-the ability to trace or lay out one's musical path, so that if you stumble on a progression that works really well (
+playlist, song, or possibly other media.  This idea focuses on the breadth of relationships between various pieces of music, and 
+the value of being able to trace or plan out one's musical path. So, if you stumble on a super cool area of music and want to re-create your experience (
 whether to teach a genre, introduce an artist, or compete as the best journeyman DJ with your friends for aux rights), 
-you are enabled to share it with others simply.  This would be intended to integrate with Spotify/Soundcloud to at a 
+you are able to share it with others simply, with enriching information along to way to foster a deeper connection to the art. 
+This would be intended to integrate with Spotify/Soundcloud to at a 
 minimum provide external links, and later an integrated media player to not re-route from the app, with the final goal 
 of becoming a social space for friends to share and discover musical Journeys in an engaging and immersive way (more-so than just
 linking someone your soundcloud mix).
